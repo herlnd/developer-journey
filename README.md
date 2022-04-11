@@ -62,7 +62,7 @@ After that, I jumped right into JavaScript. I did this course to get a good gras
 
 Results:
 
-- A couple of [basic programs](https://github.com/herlnd/fcc-js-exercises) that run on a console:
+- A couple of [basic programs](https://github.com/herlnd/practice/tree/main/fcc-projects/js-exercises) that run on a console:
 
 - This [nice certificate](https://www.freecodecamp.org/certification/herlnd/javascript-algorithms-and-data-structures) from fCC
 
@@ -72,6 +72,6 @@ After completing the JavaScript course of fCC, I returned to TOP and continued w
 
 I'm currently working my way into this curriculum. So far the results are:
 
-- A [recipes page](https://github.com/herlnd/odin-recipes) in plain HTML (need to revisit it later)
-- A [landing page](https://github.com/herlnd/odin-landing) using the flexbox tools.
-- A [Rock Paper Scissors game](https://github.com/herlnd/odin-rps) (WIP)
+- A [recipes page](https://github.com/herlnd/practice/tree/main/odin-projects/recipes) in plain HTML (need to revisit it later)
+- A [landing page](https://github.com/herlnd/practice/tree/main/odin-projects/landing) using the flexbox tools.
+- A [Rock Paper Scissors game](https://github.com/herlnd/practice/tree/main/odin-projects/rps) (WIP)
