@@ -72,6 +72,6 @@ After completing the JavaScript course of fCC, I returned to TOP and continued w
 
 I'm currently working my way into this curriculum. So far the results are:
 
-- A [recipes page](https://github.com/herlnd/practice/tree/main/odin-projects/recipes) in plain HTML (need to revisit it later)
-- A [landing page](https://github.com/herlnd/practice/tree/main/odin-projects/landing) using the flexbox tools.
-- A [Rock Paper Scissors game](https://github.com/herlnd/practice/tree/main/odin-projects/rps) (WIP)
+- A [recipes page](https://herlnd.github.io/practice/odin-projects/recipes/index.html) in plain HTML (need to revisit it later)
+- A [landing page](https://herlnd.github.io/practice/odin-projects/landing/index.html) using the flexbox tools.
+- A [Rock Paper Scissors game](https://herlnd.github.io/practice/odin-projects/rps/index.html) (WIP)
