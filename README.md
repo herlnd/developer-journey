@@ -1,8 +1,23 @@
-# My developer journey
+# My Developer Journey
 
 This is a log about my learning process, a permanent WIP.
 
-## The backstory
+---
+
+## Table of Contents
+
+1. [The Backstory](#the-backstory)
+2. [The Doubt](#the-doubt)
+3. [The Decision](#the-decision)
+4. [The Path](#the-path)
+5. [Kick Off: freeCodeCamp JavaScript Algorithms and Data Structures](#kick-off-freecodecamp-javascript-algorithms-and-data-structures)
+6. [Fundamentals: The Odin Project](#fundamentals-the-odin-project)
+7. [Full Stack JavaScript Path](#full-stack-javascript-path)
+8. [React](#react)
+
+---
+
+## The Backstory
 
 Since my teenage years, I've revolved around computers and other electronics and machines. While I've always found hardware interesting, it never caught my eye for further studying. With software the thing was entirely different: I spent lots of hours after school customizing and tinkering around with videogames mods, setting up blogs on Blogger, and even trying to make an entire community site with my cousin using [Joomla](https://www.joomla.org/).
 
@@ -11,7 +26,7 @@ Later, when I started working, I only used Excel and Power BI, and all the posit
 
 After a couple of job changes, I ended up working for a small software company in my city as a project manager. I spent a lot of time with the development team and was amazed by their work and shortly I knew I needed to experience that. I tried to study some things, but I didn't have the time it requires for getting a good grasp. I've used to find myself up staring at a blank screen not knowing what to do, after spending hours following tutorials. So, I took the hard decision to quit my job and start from zero on a new path: learning how to _actually_ build software and make a living out of it.
 
-## The doubt
+## The Doubt
 
 So, I wanted to make software. The first thing It popped up on my mind was: ok, I like video games, I like data and finance, I like to tinker with my 3D printer, etc., is there a one-size-fits-all programming language?
 
@@ -27,11 +42,11 @@ The next thing I asked myself was. What about the market? I need to find a job a
 
 Then again, I asked my friends what about being a web developer. And they explained to me that there isn't a unique kind of web developer. There can be, front-end developers, back-end developers, and full-stack developers, and it all depends on the technological stack they specialize in.
 
-## The decision
+## The Decision
 
 Taking all in consideration, I decided that the best way of doing something I enjoy while I can also make a living out of it, is to become a web developer, and especially if get to become a full stack developer, that would allow me to develop more solutions in the future, making it the most optimal decision.
 
-## The path
+## The Path
 
 After deciding I would go for web development I spent a couple of weeks doing some thorough research. I went deep down the rabbit hole searching for the answer: forums, blogs, subreddits, Twitter, universities curriculums, paid courses and bootcamps, etc.
 
@@ -86,7 +101,7 @@ Next on, still in the fundamentals, the curriculum moved from the mere front-end
 
 With the three above projects, I completed the "fundamentals" section of The Odin Project curriculum.
 
-## Full Stack JavaScript path
+## Full Stack JavaScript Path
 
 Once completed the fundamentals course, The Odin Project lets you pick between two paths for full stack development. One is based on Ruby on Rails, and the other is based on Node.js. I choose Node.js because I wanted to stick with JavaScript. The Full Stack JavaScript path first took me to further lessons in HTML and CSS, including SVG, Tables, more CSS units, selectors, etc.
 
