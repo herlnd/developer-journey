@@ -9,20 +9,19 @@ Since my teenage years, I've revolved around computers and other electronics and
 When it was time to start college I decided on industrial engineering, and I got little to no time to allocate to side projects related to software. I got close to math and statistics, and my friend was (and still is) Excel. In the last year, I took some optional simulation classes in which I learned a little bit of Scilab and R. Getting some interest in R for its simplicity, I ended up knowing about Python and all its virtues, quickly found Al Sweigart's [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) book and got my first real experience with a programming language, but never got to master the language to make useful stuff.
 Later, when I started working, I only used Excel and Power BI, and all the positions for industrial engineers were for managing resources, it didn't bore me, but I’ve always felt like something was missing.
 
-After a couple of job changes, I ended up working for a small software company in my city as a project manager. I spent a lot of time with the development team and was amazed by their work and shortly I knew I needed to experience that. I tried to study some things, but I didn't have the time it requires for getting a good grasp. I've used to find myself up staring at a blank screen not knowing what to do, after spending hours following tutorials. So, I took the hard decision to quit my job and start from zero on a new path: learning how to *actually* build software and make a living out of it.
-
+After a couple of job changes, I ended up working for a small software company in my city as a project manager. I spent a lot of time with the development team and was amazed by their work and shortly I knew I needed to experience that. I tried to study some things, but I didn't have the time it requires for getting a good grasp. I've used to find myself up staring at a blank screen not knowing what to do, after spending hours following tutorials. So, I took the hard decision to quit my job and start from zero on a new path: learning how to _actually_ build software and make a living out of it.
 
 ## The doubt
 
-So, I wanted to make software. The first thing It popped up on my mind was: ok, I like video games, I like data and finance, I like to tinker with my 3D printer, etc., is there a one-size-fits-all programming language? 
+So, I wanted to make software. The first thing It popped up on my mind was: ok, I like video games, I like data and finance, I like to tinker with my 3D printer, etc., is there a one-size-fits-all programming language?
 
 I then asked a couple of developer friends and all answers can be resumed in the following three programming languages:
 
-- ***Python:*** Friendly for beginners, multipurpose, good for data and statistics, it can be used to control a 3D printer, and it even has good libraries like [Ren'Py](https://www.renpy.org/), used to make visual novels, one of my favorite video games genres.
+- **_Python:_** Friendly for beginners, multipurpose, good for data and statistics, it can be used to control a 3D printer, and it even has good libraries like [Ren'Py](https://www.renpy.org/), used to make visual novels, one of my favorite video games genres.
 
-- ***C#:*** Modern and robust programming language, excellent for video games, it's used to create scripts within Unity and other video game engines. Used for both web and desktop applications. Not so easy for beginners.
+- **_C#:_** Modern and robust programming language, excellent for video games, it's used to create scripts within Unity and other video game engines. Used for both web and desktop applications. Not so easy for beginners.
 
-- ***JavaScript:*** The programming language of the web, you can do virtually anything with it, and nowadays it's all there! Desktop apps are being replaced by web apps at the vertiginous level. There are a good amount of video games done with it, and on top of all is one of the most recommended languages for beginners. 
+- **_JavaScript:_** The programming language of the web, you can do virtually anything with it, and nowadays it's all there! Desktop apps are being replaced by web apps at the vertiginous level. There are a good amount of video games done with it, and on top of all is one of the most recommended languages for beginners.
 
 The next thing I asked myself was. What about the market? I need to find a job after all! What are the most demanded roles in the industry? After a couple of searches on LinkedIn and Glassdoor, I found out that web developers are the most demanded.
 
@@ -52,7 +51,7 @@ I summed it all up in these 6 general steps:
 
 5. Learning about back-end: Back-end technologies, programming languages, databases, etc.
 
-*And while I'm doing everything from step 1: I will need to learn and practice with version control systems like Git.*
+_And while I'm doing everything from step 1: I will need to learn and practice with version control systems like Git._
 
 ## Kick Off: freeCodeCamp JavaScript Algorithms and Data Structures
 
@@ -68,10 +67,38 @@ Results:
 
 ## Fundamentals: The Odin Project
 
-After completing the JavaScript course of fCC, I returned to TOP and continued with their [Foundations curriculum](https://www.theodinproject.com/paths/foundations/courses/foundations), where I learn about HTML structure, CSS styling and refresh the JavaScript basics.
+After completing the JavaScript course of fCC, I returned to TOP and continued with their [Foundations curriculum](https://www.theodinproject.com/paths/foundations/courses/foundations), where I learned about HTML structure, CSS styling and refreshed the JavaScript basics.
 
-I'm currently working my way into this curriculum. So far the results are:
+The results were:
 
-- A [recipes page](https://herlnd.github.io/practice/odin-projects/recipes/index.html) in plain HTML (need to revisit it later)
-- A [landing page](https://herlnd.github.io/practice/odin-projects/landing/index.html) using the flexbox tools.
-- A [Rock Paper Scissors game](https://herlnd.github.io/practice/odin-projects/rps/index.html) (WIP)
+- A [recipes page](https://herlnd.github.io/practice/odin-projects/recipes/index.html) in plain HTML
+- A dummy [landing page](https://herlnd.github.io/practice/odin-projects/landing/index.html) using the flexbox tools.
+
+In the meanwhile, I felt curious about laying out elements in a more specific way so I drifted a little bit away from the TOP's curriculum and searched for a grid tutorial. I found [Brad Traversy's Grid Crash Course](https://www.youtube.com/watch?v=0xMQfnTU6oo) and followed it along, making my custom version inspired by Cowboy Bebop:
+
+- [Quotes page](https://herlnd.github.io/practice/other-projects/grid-test/index.html)
+
+Next on, still in the fundamentals, the curriculum moved from the mere front-end styling to one of the key parts of using JavaScript for web development: DOM manipulation and events. There, after a thorough explanation, multiple articles, and videos, I was able to make my first projects:
+
+- A [Rock Paper Scissors game](https://herlnd.github.io/practice/odin-projects/rps/index.html)
+- An [Etch-a-Sketch](https://herlnd.github.io/practice/odin-projects/etch-a-sketch/index.html) toy project.
+- A basic [Caculator](https://herlnd.github.io/practice/odin-projects/calculator/index.html).
+
+With the three above projects, I completed the "fundamentals" section of The Odin Project curriculum.
+
+## Full Stack JavaScript path
+
+Once completed the fundamentals course, The Odin Project lets you pick between two paths for full stack development. One is based on Ruby on Rails, and the other is based on Node.js. I choose Node.js because I wanted to stick with JavaScript. The Full Stack JavaScript path first took me to further lessons in HTML and CSS, including SVG, Tables, more CSS units, selectors, etc.
+
+The results were:
+
+- A dummy [Sign-up page](https://herlnd.github.io/practice/odin-projects/sign-up/index.html)
+- A dummy [Admin Dashboard](https://herlnd.github.io/practice/odin-projects/dashboard/index.html)
+
+The course continued with an introduction to the JSON format and a refresher of ES6 (ES2015) and subsequent ES JavaScript versions' features, including ESModules, Promises, Fetch API, Async/Await, etc. As a result, I was able to fetch data from APIs. The course recommended doing a vanilla JS weather app, but at this point, I had enough of vanilla projects, so I practiced just enough to feel comfortable and moved on to React.
+
+## React
+
+Before starting TOP's React section I was curious about what was React in a more "visual" way so, again, I watched one of [Brad Traversy's crash courses](https://www.youtube.com/watch?v=w7ejDZ8SWv8) and immediately understood why it was so useful. When I returned to TOP to continue with the curriculum I noticed that they explained React mainly with class-based components, instead of the more modern functional ones (even though they explain functional components further down the course). Concerned with this, I decided to look for another alternative to learn React.
+
+I watched [John Smilga's 10-hour course](https://www.youtube.com/watch?v=4UZrsTqkcW4) on the freeCodeCamp YouTube channel and I got the basics working, but that wasn't enough for me to thoroughly understand React. So my friends recommend me Academind's [React Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux) by Maximilian Schwarzmüller. The recommendation was spot on. The pace of the course was just ideal, it covered the whole library with a lot of examples, real projects, and use cases, and it also included a JavaScript refresher, summaries for React, a brief TypeScript course, and a very deep introduction to Next.js.
